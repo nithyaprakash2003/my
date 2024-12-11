@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hai
+=======
+hi -dev
+
+>>>>>>> origin/master
